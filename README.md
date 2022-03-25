@@ -1,4 +1,4 @@
-<h3> Olá eu Sou a Juliana<h3>
+<h3> Olá, eu Sou a Juliana<h3>
   
   <p>Estudante Dev Full Stack.</p>
   <p>Em transição de carreira.</p>
