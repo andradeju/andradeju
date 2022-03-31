@@ -1,8 +1,8 @@
-<h3> Olá, eu Sou a Juliana<h3>
+<h3> Hi there 👋 <h3>
   
-  <p>Estudante Dev Full Stack.</p>
-  <p>Em transição de carreira.</p>
-  <p>Participando do 41 Gama Experience.</p>
+  <p> ✔️ Estudante Dev Full Stack.</p>
+  <p> ✔️ Em transição de carreira.</p>
+  <p> ✔️ Participando do #41 Gama Experience.</p>
 
   
   <h4>Linguagens</h4>
