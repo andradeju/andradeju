@@ -1,10 +1,9 @@
-<h3> Hi there 👋 <h3>
+<h3> Olá ! Eu sou a Juliana Andrade 👋 <h3>
   
   <p> ✔️ Estudante Dev Full Stack.</p>
   <p> ✔️ Em transição de carreira.</p>
   <p> ✔️ Participando do #41 Gama Experience.</p>
-  
-  <p> Pronouns: ela/dela </p>
+  <p> ✔️ Pronouns: ela/dela </p>
 
   
   <h4>Linguagens</h4>
