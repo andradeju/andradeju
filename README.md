@@ -6,7 +6,7 @@
   <p> ✔️ Pronouns: ela/dela </p>
 
   
-  <h4>Linguagens</h4>
+  <h4> 💻 Linguagens</h4>
   
   <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" height="38"/>
