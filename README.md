@@ -6,9 +6,12 @@
 
   
   <h4>Linguagens</h4>
+  
+  <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" height="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" height="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" />
+  </p>
   
 <p align="left" <img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=andradeju&show_icons=true&locale=en&layout=compact" alt="andradeju" /></p>
   
