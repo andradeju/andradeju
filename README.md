@@ -4,6 +4,12 @@
   <p> ✔️ Em transição de carreira.</p>
   <p> ✔️ Participante do #41 Gama Experience.</p>
   <p> ✔️ Pronouns: ela/dela </p>
+  
+  <div align="left">
+  <a href="https://github.com/andradeju">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andradeju&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradeju&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
   
   <h4> 💻 Linguagens</h4>
