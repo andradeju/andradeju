@@ -10,7 +10,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andradeju&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradeju&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
   
   <h4> 💻 Linguagens</h4>
   
@@ -21,7 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="35" height="35" />
           
-            
   </p>
   
 <p align="left" <img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=andradeju&show_icons=true&locale=en&layout=compact" alt="andradeju" /></p>
