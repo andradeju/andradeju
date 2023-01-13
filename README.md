@@ -5,9 +5,6 @@
   <p> ✔️ Participante do #41 Gama Experience.</p>
   <p> ✔️ Pronouns: ela/dela </p>
   
-  <div align="left">
-  <a href="https://github.com/andradeju">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andradeju&show_icons=true&theme=transparent)
       
   <h4> 💻 Linguagens</h4>
   
