@@ -2,7 +2,6 @@
   
   <p> ✔️ Estudante Dev Full Stack.</p>
   <p> ✔️ Em transição de carreira.</p>
-  <p> ✔️ Participante do #41 Gama Experience.</p>
   <p> ✔️ Pronouns: ela/dela </p>
   
       
