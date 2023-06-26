@@ -1,6 +1,6 @@
 <h3> Olá 👋 ! Eu sou a Juliana Andrade <h3>
   
-  <p> ✔️ Estudante Dev Full Stack.</p>
+  <p> ✔️ Dev Full Stack Jr.</p>
   <p> ✔️ Em transição de carreira.</p>
   <p> ✔️ Pronouns: ela/dela </p>
   
