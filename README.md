@@ -3,7 +3,7 @@
   <p> ✔️ Dev Full Stack Jr.</p>
   <p> ✔️ Em transição de carreira.</p>
   <p> ✔️ Cursando Ciência da Computação.</p>
-  <p> ✔️ Pronouns: ela/dela </p>
+  
   
   <div align="center">
   <a href="https://github.com/andradeju">
