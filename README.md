@@ -1,4 +1,4 @@
-<h3> Olá 👋 ! Eu sou a Juliana Andrade <h3>
+<h3 align="center"> 👋 Olá! Eu sou a Juliana.<h3>
   
   <p> ✔️ Dev Full Stack Jr.</p>
   <p> ✔️ Em transição de carreira.</p>
