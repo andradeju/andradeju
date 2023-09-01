@@ -1,9 +1,8 @@
 <h3 align="center"> 👋 Olá! Eu sou a Juliana.<h3>
   
   <p> ✔️ Dev Full Stack Jr.</p>
-  <p> ✔️ Em transição de carreira.</p>
   <p> ✔️ Cursando Ciência da Computação.</p>
-  
+  <br>
   
   <div align="center">
   <a href="https://github.com/andradeju">
@@ -34,7 +33,7 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscpd&label=Profile%20views&color=0e75b6&style=flat" alt="andradeju" /> </p>
   
-  <h3 align="left">Me siga nas redes sociais:</h3>
+  <h4 align="left">Me siga nas redes sociais:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/juliana-andrade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscpd" height="30" width="40" /></a>
 </p>
