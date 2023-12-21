@@ -2,7 +2,6 @@
   
   <p> ✔️ Dev Full Stack Jr.</p>
   <p> ✔️ Cursando Ciência da Computação.</p>
-  <p> ✔️ Participando do Bootcamp Back-End Python e Django.</p>
   <br>
   
   <div align="center">
